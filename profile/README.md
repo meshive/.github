@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
+  
+# ⚡ MESHIVE
+**The Next-Generation GPU Infrastructure for AI**
 
-<!--
+High-performance computing made simple. Deploy GPUs, scale your models, and build the future without the infrastructure overhead.
 
-**Here are some ideas to get you started:**
+[🌐 Website](https://meshive.ai) | [📖 Docs](https://meshive.gitbook.io/get-started/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 🐝 Join the Discord
+
+Connect with developers and researchers in our community.
+
+<a target="_blank" href="https://discord.gg/sAG4TTvzMZ">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Meshive Discord">
+</a>
+
+</div>
