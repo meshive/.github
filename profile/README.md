@@ -5,7 +5,7 @@
 
 High-performance computing made simple. Deploy GPUs, scale your models, and build the future without the infrastructure overhead.
 
-[🌐 Website](https://meshive.ai) | [📖 Docs](https://meshive.gitbook.io/get-started/)
+[🌐 Website](https://meshive.ai) | [📖 Docs](https://docs.meshive.ai/)
 
 ---
 
