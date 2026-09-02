@@ -3,7 +3,7 @@
 # ⚡ MESHIVE
 **The Next-Generation GPU Infrastructure for AI**
 
-High-performance computing made simple. Deploy GPUs, scale your models, and build the future without the infrastructure overhead.
+Meshive is a task-first GPU cloud. Bring your task — training, inference, or rendering — and run it on RTX 5090 and RTX PRO GPUs at up to 6~70% less. No cluster to provision, no machine to babysit.
 
 [🌐 Website](https://meshive.ai) | [📖 Docs](https://docs.meshive.ai/)
 
