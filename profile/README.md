@@ -7,12 +7,12 @@
 
 <h3>Your <i>task</i>, Our GPUs</h3>
 
-<img src="https://img.shields.io/badge/RTX_5090-3B82F6?style=flat-square" alt="RTX 5090"> <img src="https://img.shields.io/badge/RTX_PRO_5000-336FD0?style=flat-square" alt="RTX PRO 5000"> <img src="https://img.shields.io/badge/RTX_PRO_6000-18CCC5?style=flat-square" alt="RTX PRO 6000">
+<img src="https://img.shields.io/badge/POPULAR_GPUs-RTX_5090_%C2%B7_PRO_5000_%C2%B7_PRO_6000_%C2%B7_%2B_MORE-3B82F6?style=for-the-badge&labelColor=101A33&logo=nvidia&logoColor=76B900" alt="Popular GPUs: RTX 5090, RTX PRO 5000, RTX PRO 6000, and more">
 
 <br><br>
 
 **Meshive is a task-first GPU cloud.**<br>
-Training, inference, or rendering — bring the task and we run it on RTX 5090 and RTX PRO GPUs.<br>
+Training, inference, or rendering — bring the task and we run it on the right GPU: RTX 5090, RTX PRO, and more.<br>
 No cluster to provision. No machine to babysit.
 
 <br>
@@ -41,3 +41,4 @@ No cluster to provision. No machine to babysit.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAG4TTvzMZ)
 
 </div>
+```
