@@ -41,4 +41,3 @@ No cluster to provision. No machine to babysit.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAG4TTvzMZ)
 
 </div>
-```
