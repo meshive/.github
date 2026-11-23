@@ -8,7 +8,7 @@ pull requests, or discussions.
 Report privately on GitHub: open the affected repository's **Security**
 tab and choose **Report a vulnerability**. For issues in the Meshive
 platform itself, report through the
-[meshive-python](https://github.com/meshive/meshive-python/security/advisories/new)
+[meshive/.github](https://github.com/meshive/.github/security/advisories/new)
 repository.
 
 ## What to include
